@@ -21,4 +21,7 @@ For this assignment, I was given an HTML file, CSS stylesheet, and a folder of i
  <a href="https://dandandanoneil.github.io/code-refactor/
 ">Link to deployed web application</a>
 
+## License
+[MIT License](http://opensource.org/licenses/mit-license.php)
+
 > Written with [StackEdit](https://stackedit.io/).
